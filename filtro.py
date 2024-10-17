@@ -3,8 +3,8 @@ import cv2 as cv
 
 # Cargar clasificadores en cascada
 rostro_cascade = cv.CascadeClassifier(cv.data.haarcascades + 'haarcascade_frontalface_alt.xml')
-ojo_cascade = cv.CascadeClassifier(r'C:\Users\Balta\Desktop\grafi\haarcascade_eye.xml')  # Asegúrate de la ruta
-boca_cascade = cv.CascadeClassifier(r'C:\Users\Balta\Desktop\grafi\haarcascade_smile.xml')  # Asegúrate de la ruta
+ojo_cascade = cv.CascadeClassifier(r'C:\Users\Balta\Desktop\grafi\haarcascade_eye.xml')  
+boca_cascade = cv.CascadeClassifier(r'C:\Users\Balta\Desktop\grafi\haarcascade_smile.xml')  
 
 cap = cv.VideoCapture(0)
 
