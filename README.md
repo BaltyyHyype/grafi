@@ -28,12 +28,20 @@ Aquí tienes una lista de los archivos incluidos:
 
 - [10EjemplosParametricas.py](10EjemplosParametricas.py)
 - [2EjModificandoEcuacion.py](2EjModificandoEcuacion.py)
+- [README.md](README.md)
 - [SistemaSolar.py](SistemaSolar.py)
 - [chevrolet.png](chevrolet.png)
 - [filtroSnapchat.py](filtroSnapchat.py)
+- [haarcascade_eye.xml](haarcascade_eye.xml)
+- [haarcascade_frontalface_alt.xml](haarcascade_frontalface_alt.xml)
+- [haarcascade_smile.xml](haarcascade_smile.xml)
 - [pelotaPingPong.py](pelotaPingPong.py)
+- [pelotaesquiba.py](pelotaesquiba.py)
+- [tarea1.py](tarea1.py)
+- [tarea2.py](tarea2.py)
+- [tarea3.py](tarea3.py)
 
-## 🌟 Visualizaciones
+## 🌟 Visualizacion de la imagen que se uso
 
 ![Chevrolet](chevrolet.png)
 
