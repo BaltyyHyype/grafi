@@ -5,7 +5,7 @@ import numpy as np
 img = cv.imread('/Users/baltyyhyype/Documents/Graficacion/FotoGrafiPrueba.png', 0)
 
 
-
+#a
 
 
 
