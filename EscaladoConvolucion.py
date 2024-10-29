@@ -5,9 +5,8 @@ import numpy as np
 img = cv.imread('/Users/baltyyhyype/Documents/Graficacion/FotoGrafiPrueba.png', 0)
 
 
-if img is None:
-    print("Error: No se pudo cargar la imagen. Verifica la ruta y el nombre del archivo.")
-    exit()
+
+
 
 
 x, y = img.shape
